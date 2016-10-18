@@ -1,4 +1,4 @@
-wordsimport sys
+#minor changes made# wordsimport sys
 
 def read_fasta(filename):
     sequence = ''
